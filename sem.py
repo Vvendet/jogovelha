@@ -2,7 +2,6 @@
 """
 Created on Sat Jun 27 18:58:09 2020
 
-@author: wellington
 """
 
 
