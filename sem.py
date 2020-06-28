@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun 27 18:58:09 2020
+author:@https://www.pythonprogressivo.net/2018/10/Como-Criar-Jogo-Velha-Python.html
 
 """
 
