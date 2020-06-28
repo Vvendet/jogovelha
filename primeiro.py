@@ -6,6 +6,7 @@ Este é um arquivo de script temporário.
 author:@Julio Cesar Froes de Oliveira
 
 criar jogo da velha em python
+author: @Vvendetta Julio
 
 """
 
